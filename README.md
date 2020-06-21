@@ -1,6 +1,6 @@
 # Extração de aspectos a partir de um conjunto de reviews
 
-Teste técnico para vaga de estágio na Birdie.ai (repositório privado).
+Teste técnico para vaga de estágio na Birdie.ai
 
 A lógica utilizada na análise dos dados está contida no Jupyter Notebook (presente neste repositório).
 
