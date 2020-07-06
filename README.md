@@ -8,6 +8,12 @@ Os pacotes necessários para a execução são descritos detalhadamente, assim c
 
 Ao final de cada etapa, alguns insights foram destacados.
 
-Estou disponível para eventuais esclarecimentos.
+# Aspect extraction from a set of consumer reviews
 
-E-mail: kevin_kuhl@usp.br
+This was a technical test for a internship at Birdie.ai
+
+All the steps are described in the Jupyter Notebook (until now only in Portuguese).
+
+Needed python packages are described in details, as well as commands for installation.
+
+Also some brief insights are provided at the end of each phase.
